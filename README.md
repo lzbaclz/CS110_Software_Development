@@ -4,6 +4,8 @@ My learning record of the software development. This is an easy subject in my sc
 
 This is the second half of my course in spring semester. So it would last only 10 weeks from March to May.
 
+Due to the limit of speed of the connection. I will only put the code and questions of the assignments.
+
 <!-- <br/>***March***</br> -->
 - **Week 1**
   - Lab 1: The introduction of IDE BlueJ.
